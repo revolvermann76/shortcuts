@@ -1,0 +1,1 @@
+start "" "http://www.bing.com/search?q=%*"

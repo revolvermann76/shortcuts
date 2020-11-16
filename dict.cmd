@@ -1,0 +1,1 @@
+start "" "http://www.dict.cc/?s=%*"

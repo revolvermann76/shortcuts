@@ -1,0 +1,1 @@
+start "" "http://www.duden.de/suchen/dudenonline/%*"
